@@ -9,7 +9,7 @@ print ("discriminant = " + d);
 
 let discriminant = Math.sqrt(d);
 	
-if (d < 0){
+if (d <= 0){
 print ("not possible");
 }
 	else {
